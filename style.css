@@ -181,7 +181,7 @@ h1{
 }    
 /*--media query for phone--*/
 /*--media query for tablet/ipad--*/
-@media screen and (max-width: 1024px) and (min-width: 678px){
+@media screen and (max-width: 1024px) and (min-width: 668px){
     h1{
         font-size: 70px;
         line-height: 80px;
